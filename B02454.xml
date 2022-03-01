@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cracks garland Furnish'd with three excellent new songs. Song I. The weeping harlot; or the wanton misses lamentation for the loss of their cullies and bountyful benefactors, who dare not come as formerly, for fear of the private press. Song II. The female auction; or a curious collection of town cracks, to be sold by inch of candle, at Peticoat-Castle, near the sign of the furbelo lady, in Dildo-street. Song III. The weeping virgin; or the forsaken lover's mournful tragedy. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02454</idno>
+            <idno type="STC">Wing C6741B</idno>
+            <idno type="STC">ESTC R175871</idno>
+            <idno type="EEBO-CITATION">52211999</idno>
+            <idno type="OCLC">ocm 52211999</idno>
+            <idno type="VID">175615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175615)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2742:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cracks garland Furnish'd with three excellent new songs. Song I. The weeping harlot; or the wanton misses lamentation for the loss of their cullies and bountyful benefactors, who dare not come as formerly, for fear of the private press. Song II. The female auction; or a curious collection of town cracks, to be sold by inch of candle, at Peticoat-Castle, near the sign of the furbelo lady, in Dildo-street. Song III. The weeping virgin; or the forsaken lover's mournful tragedy. Licensed according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Brooksby, at the Golden-Ball in Pye-Corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title vignette.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>The weeping harlot -- The female auction -- The weeping virgin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Poetry --  17th century.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175615:1"/>
+            <p>The Cracks Garland: Furniſh'd with Three Excellent New Songs.</p>
+            <p>Song I. The weeping Harlot; or, The wanton Miſſes Lamentation for the loſs of their Cullies and Bounty<g ref="char:EOLhyphen"/>ful Benefactors, who dare not come as formerly, for fear of the private Preſs.</p>
+            <p>Song II. The Female Auction; or, A Curious Collecti<g ref="char:EOLhyphen"/>on of Town Cracks, to be Sold by Inch of Candle, at Peticoat-Caſtle, near the Sign of the Furbelo Lady, in Dildo-ſtreet.</p>
+            <p>III. The weeping Virgin; or, The forſaken Lover's mournful Tragedy.</p>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>E. Brooksby,</hi> at the <hi>Golden-Ball</hi> in <hi>Pye-Corner.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="songs">
+            <pb n="2" facs="tcp:175615:2"/>
+            <head>The Cracks Garland, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="song">
+               <head>SONG I. The weeping Harlot; or, The wanton Miſſes Lamen<g ref="char:EOLhyphen"/>tation for the loſs of their Cullies and Bountiful Be<g ref="char:EOLhyphen"/>nifactors, <hi>&amp;c.</hi> Tune of <hi>Cellidon.</hi>
+               </head>
+               <lg>
+                  <l>BUxom <hi>Kate,</hi> who us'd to wait</l>
+                  <l>on Gallants of the Town,</l>
+                  <l>At Balls and Plays, in former Days,</l>
+                  <l>and kiſs for Half a Crown;</l>
+                  <l>Now ſhe cries, with weeping Eyes,</l>
+                  <l>the Times are hard, few will regard</l>
+                  <l>A handſome Crack, tho' on her back</l>
+                  <l>rich Plumes are ſtill diſplay'd,</l>
+                  <l>To ſpeak the Truth, our wanton Youth</l>
+                  <l>do's ſeem to be afraid,</l>
+                  <l>For Night and Day, they're Preſt away,</l>
+                  <l>which ſpoils the Harlots Trade.</l>
+               </lg>
+               <lg>
+                  <l>When a Spark comes in the Dark,</l>
+                  <l>his Wanton to embrace,</l>
+                  <l>Painted and Dreſt, among the reſt,</l>
+                  <l>in Furbelo's or Lace;</l>
+                  <l>At the Sale of Beer or Ale,</l>
+                  <l>with Brandy, Wine, choice Liquors fine,</l>
+                  <l>The Gallants treat where e're they meet,</l>
+                  <l>where wanton Games are play'd,</l>
+                  <l>While they poſſeſs their Happineſs,</l>
+                  <l>a private Search is made,</l>
+                  <l>He's Preſt away, he cannot ſtay,</l>
+                  <l>this ſpoils the Harlots Trade.</l>
+               </lg>
+               <pb n="3" facs="tcp:175615:2"/>
+               <lg>
+                  <l>Oh! ſaid <hi>Joan,</hi> it is well known,</l>
+                  <l>that what thou ſay'ſt is true,</l>
+                  <l>I had a Friend that us'd to ſpend</l>
+                  <l>on me a Crown or two;</l>
+                  <l>VVhen he came, 'twas <hi>Will</hi> by Name,</l>
+                  <l>but he was Preſt amongſt the reſt;</l>
+                  <l>From my ſoft Arms, and tempting Charms,</l>
+                  <l>he was as fine a Blade</l>
+                  <l>As ever kiſs'd; his Love is miſs'd,</l>
+                  <l>in Rags I'm now array'd;</l>
+                  <l>Sweet Siſter dear, theſe things I fear</l>
+                  <l>will clearly ſpoil our Trade.</l>
+               </lg>
+               <lg>
+                  <l>I have not one Shilling got</l>
+                  <l>this five long days and more,</l>
+                  <l>Nor have I had a jolly Lad</l>
+                  <l>once ſtept within my Door;</l>
+                  <l>This is hard, will none regard</l>
+                  <l>our piteous Moan, quoth Buxom <hi>Joan,</hi>
+                  </l>
+                  <l>'Tis very ſtrange, the Times muſt change,</l>
+                  <l>or we ſhall be diſmay'd;</l>
+                  <l>The Preſs by Night, do's ſo affright</l>
+                  <l>thoſe that with us have play'd,</l>
+                  <l>They do not dare to come I'll ſwear,</l>
+                  <l>wherefore it ſpoils our Trade.</l>
+               </lg>
+               <lg>
+                  <l>Now and then ſome aged Men,</l>
+                  <l>with Locks as white as Snow,</l>
+                  <l>Comes for a touch, it is not much,</l>
+                  <l>perhaps a Kiſs, or ſo;</l>
+                  <l>That is all, when e'er they call,</l>
+                  <l>whoſe ſneeking Price is but a Sciſe;</l>
+                  <l>That will not do, quoth <hi>Kate</hi> and <hi>Sue,</hi>
+                  </l>
+                  <l>give us the brawny Blade,</l>
+                  <pb n="4" facs="tcp:175615:3"/>
+                  <l>That's brave and bold, well lin'd with Gold,</l>
+                  <l>and gaudy Plums diſplay'd;</l>
+                  <l>But while the Preſs is more or leſs,</l>
+                  <l>we can expect no Trade.</l>
+               </lg>
+               <lg>
+                  <l>It is a ſhame the good old Game</l>
+                  <l>of Kiſs, and you know what,</l>
+                  <l>Shou'd ſuffer ſo, by which you know</l>
+                  <l>we Crowns and Pounds have got;</l>
+                  <l>Guinea's bright for Love's delight,</l>
+                  <l>kind-hearted Men wou'd give us then,</l>
+                  <l>Sweet Siſter <hi>Sue,</hi> you know 'tis true,</l>
+                  <l>beſides rich Banquet made;</l>
+                  <l>VVith them we'd Dine, drink racey VVine</l>
+                  <l>and was in Silks array'd,</l>
+                  <l>But now alas! it's come to paſs,</l>
+                  <l>that Preſſing ſpoils our Trade.</l>
+               </lg>
+            </div>
+            <div n="2" type="song">
+               <head>SONG II. The Female Auction; or, A Curious Collection of Town Cracks, to be Sold by Inch of Candle, at Peticoat-Caſtle, near the Sign of the Furbelo Lady, in Dildo-ſtreet. Tune of <hi>The Crys of</hi> London.</head>
+               <lg>
+                  <l>YOU young Sparks of <hi>London</hi> Town,</l>
+                  <l>VVho would have a Crack in a Furbelo Gown,</l>
+                  <l>Dreſs'd up in black Patches and Powdered Hair,</l>
+                  <l>VVith all expedition I'd have you repair,</l>
+                  <l>To Petticoat Caſtle,</l>
+                  <l>For there is a Parſel</l>
+                  <l>Of Ladies that ruſtle</l>
+                  <l>In Sattins and Silks to be ſold.</l>
+               </lg>
+               <lg>
+                  <l>Now the Times are grown ſo bad,</l>
+                  <l>That there is no work in the leaſt to be had,</l>
+                  <pb n="5" facs="tcp:175615:3"/>
+                  <l>VVherefore the Bawds round the City of late,</l>
+                  <l>VVill ſell off their Cracks at a very low Rate,</l>
+                  <l>There's all ſorts and ſizes,</l>
+                  <l>Of changeable Prices,</l>
+                  <l>The VVitty and Nizies,</l>
+                  <l>Come now and you may have your Choice.</l>
+               </lg>
+               <lg>
+                  <l>VVhen you come, ſee what you lack,</l>
+                  <l>There's Beauty, there's Tawney, there's Yellow and Black,</l>
+                  <l>There's young hopping <hi>Nancy,</hi> and allow fac'd <hi>Nell,</hi>
+                  </l>
+                  <l>VVho liv'd at the Sign of the Dildo and Bell,</l>
+                  <l>There's ſquinting <hi>Dolly,</hi>
+                  </l>
+                  <l>VVith crump ſhoulder'd <hi>Molly,</hi>
+                  </l>
+                  <l>And <hi>Kate</hi> brisk and jolly,</l>
+                  <l>You may pick and cull which you pleaſe.</l>
+               </lg>
+               <lg>
+                  <l>Now if Money be ſhort with you,</l>
+                  <l>Take notice Gallants what you may do,</l>
+                  <l>There's young beautiful Miſſes of value,</l>
+                  <l>The which you may freely take up on the Tally,</l>
+                  <l>
+                     <hi>Joan, Kate</hi> and <hi>Winny,</hi>
+                  </l>
+                  <l>
+                     <hi>Doll, Sue</hi> and <hi>Jenny,</hi>
+                  </l>
+                  <l>They'll ſell for a Guinea,</l>
+                  <l>And take it by ſo much a VVeek.</l>
+               </lg>
+               <lg>
+                  <l>The Old Madams ſells off their Stocks</l>
+                  <l>Of Miſſes, dreſs'd up in their fine <hi>Holland</hi> Smocks,</l>
+                  <l>If ready Money you can but lay down,</l>
+                  <l>The beſt may be bought at the Price of a Crown,</l>
+                  <l>And ſome at a Shilling,</l>
+                  <l>For Kiſſing and Billing,</l>
+                  <l>I know they are willing,</l>
+                  <l>To take any Money that comes.</l>
+               </lg>
+               <lg>
+                  <l>If the Reaſon you fain wou'd know,</l>
+                  <l>VVhy they are willing to part with 'em ſo,</l>
+                  <pb n="6" facs="tcp:175615:4"/>
+                  <l>I'll tell you the Trade it is grown ſuch a Drug,</l>
+                  <l>A Man ſcarce will give now a Groat and a Mug,</l>
+                  <l>Though Joys he is reaping,</l>
+                  <l>And with her lies ſleeping,</l>
+                  <l>Cracks are not worth keeping,</l>
+                  <l>They bring in no Profit at all.</l>
+               </lg>
+               <lg>
+                  <l>If good Pennyworths you mean to buy,</l>
+                  <l>Then come away Gallants, I tell you for why,</l>
+                  <l>There's beautiful Siſters and ſimpering Couſins,</l>
+                  <l>Dreſs'd up in rich Garments, and ſent in by Dozens,</l>
+                  <l>From all Parts and Places,</l>
+                  <l>With fair painted Faces,</l>
+                  <l>Juſt fit for Embraces,</l>
+                  <l>The like of which never was known.</l>
+               </lg>
+               <lg>
+                  <l>There is Danger in long delay,</l>
+                  <l>Wherefore to this Auction come Gallants away,</l>
+                  <l>And ſee for your Love now, and buy for your Money,</l>
+                  <l>Here's Cracks with ſoft Kiſſes that's ſweeter then Honey;</l>
+                  <l>Likewiſe full of Metal,</l>
+                  <l>They'll pleaſe to a tittle,</l>
+                  <l>The Price is but little,</l>
+                  <l>Buy all, and we'll give you the reſt.</l>
+               </lg>
+            </div>
+            <div n="3" type="song">
+               <head>SONG III. The weeping Virgin; or, The forſaken Lover's mourn<g ref="char:EOLhyphen"/>ful Tragedy. Tune of <hi>Cold and Temperate.</hi>
+               </head>
+               <lg>
+                  <l>WHen <hi>Flora</hi> with her ſweet Perfumes,</l>
+                  <l>Her pleaſant Smiles, and painted Plumes,</l>
+                  <l>Had deck'd the Groves and Meadows fair,</l>
+                  <l>I wander'd forth to take the Air,</l>
+                  <l>Where by a flowing Rivers ſide,</l>
+                  <l>A weeping Damſel I eſpy'd.</l>
+               </lg>
+               <pb n="7" facs="tcp:175615:4"/>
+               <lg>
+                  <l>The Lamentation which ſhe made,</l>
+                  <l>Was full of Grief, for thus ſhe ſaid,</l>
+                  <l>Farewel all hope of Happineſs,</l>
+                  <l>I am not able to expreſs</l>
+                  <l>The Sorrows which I undergo,</l>
+                  <l>True Love will prove my Overthrow.</l>
+               </lg>
+               <lg>
+                  <l>The fatal Stroke of <hi>Cupid</hi>'s Dart,</l>
+                  <l>Has touch'd my youthful yielding Heart,</l>
+                  <l>And made ſo deep a Wound therein,</l>
+                  <l>That I may wiſh I ne'er had been;</l>
+                  <l>But all thoſe VViſhes are in vain,</l>
+                  <l>I do and muſt my Grief ſuſtain.</l>
+               </lg>
+               <lg>
+                  <l>Here to the VVorld I'll ſhew in brief,</l>
+                  <l>The Cauſe of all my killing Grief,</l>
+                  <l>Is by a moſt unworthy Knight,</l>
+                  <l>Who call'd me once his Heart's delight,</l>
+                  <l>And now has left me in Deſpair,</l>
+                  <l>My Grief is more than I can bear.</l>
+               </lg>
+               <lg>
+                  <l>When firſt he did my Charms behold,</l>
+                  <l>What pleaſant pretty Tales he told,</l>
+                  <l>Proteſting that he lov'd me more</l>
+                  <l>Than any he had ſeen before;</l>
+                  <l>Alas! alas! I being young,</l>
+                  <l>Believ'd his falſe deluding Tongue.</l>
+               </lg>
+               <lg>
+                  <l>No ſooner did I give conſent</l>
+                  <l>To Love, but ſtrait from me he went,</l>
+                  <l>And took a youthful Lady Gay,</l>
+                  <l>Now when I on the Wedding-Day,</l>
+                  <l>Beheld him with his Charming Bride,</l>
+                  <l>Indeed I thought I ſhould have dy'd.</l>
+               </lg>
+               <lg>
+                  <l>I ſigh'd and trembl'd ev'ry Limb,</l>
+                  <l>With Tears I turn'd away from him.</l>
+                  <pb n="8" facs="tcp:175615:5"/>
+                  <l>Being reſolved for to rove</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nto ſome ſolitary Grove,</l>
+                  <l>Where I might end my days in Grief,</l>
+                  <l>My Sorrows being paſt relief.</l>
+               </lg>
+               <lg>
+                  <l>This is to them a Joyful day,</l>
+                  <l>In Mirth they paſs their Time away,</l>
+                  <l>Feaſting on rich delicious Chear,</l>
+                  <l>While I alone lie weeping hear,</l>
+                  <l>A poor forſaken harmleſs Maid,</l>
+                  <l>Whoſe Heart by him was ſoon betray'd.</l>
+               </lg>
+               <lg>
+                  <l>He might have taken her at firſt,</l>
+                  <l>And then I own, it had been juſt,</l>
+                  <l>But ſince he ſooth'd and flatter'd me,</l>
+                  <l>Time after Time to that degree,</l>
+                  <l>As he has done, I muſt declare,</l>
+                  <l>He is the Cauſe of my deſpair.</l>
+               </lg>
+               <lg>
+                  <l>Theſe words ſhe had no ſooner ſpoke,</l>
+                  <l>But with a ſharp and fatal ſtroke,</l>
+                  <l>The Thread of Life ſhe cut in twain,</l>
+                  <l>I ran to ſave her, but in vain,</l>
+                  <l>It did her ſad deſtruction prove,</l>
+                  <l>She liv'd to die, and dy'd for Love.</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
